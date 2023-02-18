@@ -1,0 +1,88 @@
+body {
+  background-color: #313238;
+  color: azure;
+}
+
+h1 {
+  text-shadow: 0 0 5px #077fff, 0 0 10px #077fff, 0 0 5px #077fff,
+    0 0 25px #077fff, 0 0 50px #077fff;
+}
+
+h3 {
+  margin-bottom: 8px;
+  margin-top: 16px;
+}
+
+h5 {
+  margin-bottom: 6px;
+  margin-top: 12px;
+}
+
+.container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.banner {
+  background-color: black;
+  margin-bottom: 20px;
+  padding: 30px;
+  text-align: center;
+}
+
+.banner-inside {
+  margin: auto;
+  max-width: 800px;
+}
+
+.banner a {
+  color: azure;
+  text-decoration: none;
+}
+
+.banner a:hover {
+  color: azure;
+}
+
+.pfp {
+  border-radius: 100%;
+  margin: auto;
+  object-fit: cover;
+  width: 300px;
+}
+
+.list-1 {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Icons */
+.bi {
+  margin-bottom: 4px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.bi:hover {
+  filter: drop-shadow(0 0 5px #077fff);
+}
+
+@media screen and (max-width: 1000px) {
+  .g-2 {
+    flex-direction: column;
+  }
+
+  main .g-2 {
+    flex-direction: column-reverse;
+  }
+
+  .col-8 {
+    width: auto;
+  }
+
+  .pfp {
+    margin-bottom: 28px;
+    margin-top: 28px;
+    width: 250px;
+  }
+}
