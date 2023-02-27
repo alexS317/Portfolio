@@ -14,10 +14,10 @@ import Footer from "@/components/Footer.vue";
         Hello and welcome to my page, I am happy you found your way here! My
         name is Alexandra, I am a young Austrian student currently on the way to
         get my BSc in Creative Computing. I am interested in various kinds of
-        digital technologies, like software development (particularly games), 3D
-        art and animation, or visual effects, and would love to work in one of
-        those fields in the future. On this page here you can find some
-        information about me and my work.
+        digital technologies, like software development (particularly for games, but
+        also web and mobile), 3D art and animation, or visual effects, and would
+        love to work in one of those fields in the future. On this page here you
+        can find some information about me and my work.
       </p>
       <p>Contact me via Email or LinkedIn:</p>
 
@@ -95,8 +95,8 @@ import Footer from "@/components/Footer.vue";
       want to learn, but I am trying to get familiar with at least some of them
       via self-study. I have listed a few things here that I am currently in the
       progress of learning or plan to learn soon (words written in
-      <i>italics</i> are technologies that I will get to know in the 4th
-      semester).
+      <i>italics</i> are technologies that I will still get to know in my study
+      programme).
     </p>
     <ul>
       <li>Unreal Engine</li>
@@ -105,13 +105,13 @@ import Footer from "@/components/Footer.vue";
       <li><i>C#</i></li>
       <li>
         Various common 3D programs for modelling, sculpting, texturing and
-        animation (e.g. Maya, ZBrush, Substance Painter)
+        animation (e.g. <i>Maya</i>, ZBrush, Substance Painter)
       </li>
       <li>Other programs from the Adobe Suite (e.g. <i>After Effects</i>)</li>
       <li>React</li>
       <li>Python</li>
       <li>
-        ... and probably more, as I am generally very open and excited towards
+        ... and probably more, as I am generally open and excited towards
         learning new things :)
       </li>
     </ul>

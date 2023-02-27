@@ -11,7 +11,7 @@
             <li>JavaScript (Node.js, Vue, Nuxt) + HTML & CSS</li>
             <li>Kotlin</li>
             <li>SQL (MySQL, SQLite)</li>
-            <li>C</li>
+            <li>C (mainly for Arduino microcontrollers)</li>
           </ul>
         </li>
         <li>

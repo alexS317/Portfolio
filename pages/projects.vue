@@ -49,7 +49,7 @@ personalItems.forEach((item) => {
       Some of my university projects. They were a very valuable learning
       experience for me and even though I have gained a lot more experience
       since I made the first few, I am still proud of my accomplishments as a
-      beginner. More to come soon.
+      beginner. More to come soon hopefully.
     </p>
 
     <div class="row g-3">

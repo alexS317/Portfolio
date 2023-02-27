@@ -31,20 +31,17 @@
     <p>
       However, I did not want to rely only on the things I would learn through
       formal education. I already started with self-studying when I was still at
-      school, I bought books about programming and followed 3D modelling
-      tutorials that I found online. A major reason why these things - among
-      others - fascinate me, is that they allow me to take seemingly nothing and
-      create something from it. I start out with a simple cube or sphere in my
-      3D programme, but I could make an actual object or character from it. Or I
+      school, I bought books about coding and followed 3D modelling tutorials
+      that I found online. A major reason why these things - among others -
+      fascinate me, is that they allow me to take seemingly nothing and create
+      something from it. I start out with a simple cube or sphere in my 3D
+      programme, but I could make an actual object or character from it. Or I
       write some lines of code, and suddenly things move on the screen or react
       to user input. This ability of just creating something out my own skills
-      and knowledge is something that I have really come to love. Sure, at times
-      it could be intimidating as well, for example because it seemed like I
-      would need all those fancy and expensive tools and programs, but I was,
-      and still am, determined to achieve my goals regardless. To me, a skill
-      that I do not have is usually just one that I have not learned yet. As
-      mentioned previously, I love learning new things, and I hope to soon find
-      the (work)place that is right for me to bring in my skills.
+      and knowledge is something that I have really come to love. I enjoy
+      learning new things (after all, a skill I don't have is probably just one
+      I haven't learned yet) and I hope to soon find a place that is right for
+      me to bring in those skills.
     </p>
   </div>
 </template>
