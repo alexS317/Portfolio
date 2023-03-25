@@ -59,11 +59,19 @@ h5 {
 /* Icons */
 .bi {
   margin-bottom: 4px;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.fa {
+  margin-bottom: 4px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 .bi:hover {
+  filter: drop-shadow(0 0 5px #077fff);
+}
+.fa:hover {
   filter: drop-shadow(0 0 5px #077fff);
 }
 

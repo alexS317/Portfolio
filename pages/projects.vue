@@ -40,6 +40,26 @@ personalItems.forEach((item) => {
         numerous yet as I would wish for, but I hope to change this over time as
         I learn more and more.
       </p>
+      <p>
+        If you want to see more, you are also welcome to take a look at my
+        Artstation or GitHub profile:
+      </p>
+
+      <a
+        href="https://www.artstation.com/alexs317"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa fa-artstation fa-3x" aria-hidden="true"></i>
+      </a>
+
+      <a
+        href="https://github.com/alexS317"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa fa-github fa-3x" aria-hidden="true"></i>
+      </a>
     </div>
   </div>
 
@@ -66,9 +86,10 @@ personalItems.forEach((item) => {
   <section class="container">
     <h3>Personal</h3>
     <p>
-      A few of my personal projects. At the moment I have mainly 3D modelling
-      practice works to show, but I would love to also get more into sculpting
-      and texture-painting in the future, as well as maybe some personal coding
+      A few of my personal projects (including this website itself, which I made
+      with Nuxt). At the moment I have mainly 3D modelling practice works to
+      show, but I would love to also get more into sculpting and
+      texture-painting in the future, as well as maybe some personal coding
       projects.
     </p>
 
