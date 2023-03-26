@@ -3,7 +3,7 @@ const uniItems = [
     image: "comfort_zone",
     title: "Comfort Zone",
     description:
-      "I designed and developed this Android app together with a study colleague in the context of our end project for the third semester. In this app, users can upload images of their favourite fictional characters, and then get randomised positive affirmations from those characters, to help with feelings like stress and anxiety. I was responsible for the main part of the programming. It is simple, but fulfils it purpose perfectly, and we were very happy with it.",
+      "I designed and developed this Android app together with a study colleague in the context of our end project for the third semester. In this app, users can upload images of their favourite fictional characters, and then get randomised positive affirmations from those characters, to help with feelings like stress and anxiety. I was responsible for the main part of the programming. It is simple, but fulfils its purpose perfectly, and we were very happy with it.",
   },
   // {
   //   image: "magic_wand",
