@@ -21,7 +21,8 @@ const uniItems = [
     image: "artify",
     title: "Artify",
     description:
-      "A simple website for sharing art, which I created in the second semester in context of my two-week end project. It was developed by using Node.js and a MySQL database. Users can sign up and log in, edit or delete their profiles, as well as post and delete pictures. Everything (including the example drawings) is made by me. I learned a lot about client- and server-side development through this project, and would like to show it directly, but due to connection problems with the hosting service and the database provided to us, it is no longer possible.",
+      "A simple website for sharing art, which I created in the second semester in context of my two-week end project. It was developed by using Node.js and a MySQL database. Users can sign up and log in, edit or delete their profiles, as well as post and delete pictures. Everything (including the example drawings) is made by me. I learned a lot about client- and server-side development through this project. As the database that we had to use for the project is no longer accessible for us, I unfortunately cannot show it to you directly. However, we had to also create a small video presentation as part of the project, so you can still get a small insight through that.",
+    link: "https://www.youtube.com/watch?v=sQ-vypEhS1I",
   },
   {
     image: "spaceship_flight",
