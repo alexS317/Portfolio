@@ -8,26 +8,25 @@
         <li>
           <h5>Programming</h5>
           <ul>
+            <li>C#</li>
             <li>JavaScript (Node.js, Vue, Nuxt) + HTML & CSS</li>
             <li>Kotlin</li>
             <li>SQL (MySQL, SQLite)</li>
-            <li>C (mainly for Arduino microcontrollers)</li>
           </ul>
         </li>
         <li>
           <h5>Art and Design</h5>
           <ul>
-            <li>Responsive UI Design</li>
-            <li>Digital Illustration</li>
             <li>3D Modelling</li>
+            <li>Digital Illustration</li>
+            <li>Responsive UI Design</li>
           </ul>
         </li>
         <li>
           <h5>Other</h5>
           <ul>
-            <li>General Game Design</li>
             <li>Agile Software Development</li>
-            <li>User Research</li>
+            <li>General Game Design</li>
             <li>Usability and UX Evaluation</li>
           </ul>
         </li>
@@ -49,28 +48,30 @@
         <li>
           <h5>Programming</h5>
           <ul>
-            <li>Visual Studio Code</li>
-            <li>WebStorm</li>
             <li>Android Studio</li>
             <li>Git</li>
+            <li>JetBrains Rider</li>
+            <li>JetBrains WebStorm</li>
+            <li>Unity</li>
+            <li>Visual Studio Code</li>
           </ul>
         </li>
         <li>
           <h5>Art and Design</h5>
           <ul>
-            <li>Figma</li>
-            <li>Clip Studio Paint</li>
             <li>Adobe Photoshop</li>
-            <li>Spine</li>
+            <li>Adobe After Effects</li>
             <li>Blender</li>
+            <li>Clip Studio Paint</li>
+            <li>Figma</li>
+            <li>Spine</li>
           </ul>
         </li>
         <li>
           <h5>Other</h5>
           <ul>
-            <li>Adobe Premiere Pro</li>
-            <li>MS Office</li>
             <li>Miro</li>
+            <li>MS Office</li>
           </ul>
         </li>
       </ul>

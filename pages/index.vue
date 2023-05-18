@@ -2,9 +2,12 @@
 import Navigation from "@/components/Navigation.vue";
 import Bio from "@/components/Bio.vue";
 import SkillList from "@/components/SkillList.vue";
+import InfoBanner from "@/components/InfoBanner.vue";
 import Footer from "@/components/Footer.vue";
 </script>
 <template>
+  <InfoBanner />
+
   <Navigation />
   <section class="banner">
     <div class="banner-inside">
@@ -67,25 +70,18 @@ import Footer from "@/components/Footer.vue";
   </section>
 
   <section class="container">
-    <h3>Skills and Tools I am interested in/would like to learn more about</h3>
+    <h3>Other Skills and Tools I am interested in</h3>
     <p class="col-8">
-      Unfortunately, my university curriculum cannot include everything that I
-      want to learn, but I am trying to get familiar with at least some of them
-      via self-study. I have listed a few things here that I am currently in the
-      progress of learning or plan to learn soon (words written in
-      <i>italics</i> are technologies that I will still get to know in my study
-      programme).
+      I am also interested in various things that are not included in my
+      (current) study programme, however, I plan to learn more about at least
+      some of them via self-study or my future education. This includes for
+      example:
     </p>
     <ul>
       <li>Unreal Engine</li>
-      <li><i>Unity</i></li>
       <li>C++</li>
-      <li><i>C#</i></li>
-      <li>
-        Various common 3D programs for modelling, sculpting, texturing and
-        animation (e.g. <i>Maya</i>, ZBrush, Substance Painter)
-      </li>
-      <li>Other programs from the Adobe Suite (e.g. <i>After Effects</i>)</li>
+      <li>Various common 3D programs (e.g. Maya, ZBrush, Substance Painter)</li>
+      <li>Different programs from the Adobe Suite</li>
       <li>React</li>
       <li>Python</li>
       <li>

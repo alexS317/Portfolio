@@ -32,7 +32,7 @@ const props = defineProps({
             :href="`${props.link}`"
             target="_blank"
             rel="noopener noreferrer"
-            >See it here!</a
+            >Play it here!</a
           >
         </p>
       </div>
