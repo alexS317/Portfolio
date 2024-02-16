@@ -11,13 +11,14 @@
             <li>C#</li>
             <li>JavaScript (Node.js, Vue, Nuxt) + HTML & CSS</li>
             <li>Kotlin</li>
+            <li>PHP</li>
             <li>SQL (MySQL, SQLite)</li>
           </ul>
         </li>
         <li>
           <h5>Art and Design</h5>
           <ul>
-            <li>3D Modelling</li>
+            <li>3D Modelling + Animation</li>
             <li>Digital Illustration</li>
             <li>Responsive UI Design</li>
           </ul>
@@ -50,6 +51,7 @@
           <ul>
             <li>Android Studio</li>
             <li>Git</li>
+            <li>Google Web Designer</li>
             <li>JetBrains Rider</li>
             <li>JetBrains WebStorm</li>
             <li>Unity</li>
@@ -59,8 +61,8 @@
         <li>
           <h5>Art and Design</h5>
           <ul>
-            <li>Adobe Photoshop</li>
             <li>Adobe After Effects</li>
+            <li>Adobe Photoshop</li>
             <li>Blender</li>
             <li>Clip Studio Paint</li>
             <li>Figma</li>

@@ -51,6 +51,24 @@ import Footer from "@/components/Footer.vue";
   </main>
 
   <section class="container">
+    <h3>Professional Experience</h3>
+    <ul>
+      <li>
+        <div style="display: flex">
+          <div>Sept. 2023-Jan. 2024 -&nbsp;</div>
+          <div>
+            <div>Web Development Intern at Digitalsunray Media GmbH</div>
+            <div>
+              Tasks: Front-End Development, Creative Development (Advertisement
+              banners)
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="container">
     <h3>Education</h3>
     <ul>
       <li>
@@ -72,10 +90,9 @@ import Footer from "@/components/Footer.vue";
   <section class="container">
     <h3>Other Skills and Tools I am interested in</h3>
     <p class="col-8">
-      I am also interested in various things that are not included in my
-      (current) study programme, however, I plan to learn more about at least
-      some of them via self-study or my future education. This includes for
-      example:
+      I love learning new skills, so here are a few other things I'd like to
+      dive more into in the future, either through study programmes and courses
+      or self-study:
     </p>
     <ul>
       <li>Unreal Engine</li>
@@ -85,8 +102,7 @@ import Footer from "@/components/Footer.vue";
       <li>React</li>
       <li>Python</li>
       <li>
-        ... and probably more, as I am generally open and excited towards
-        learning new things :)
+        ... and probably more :)
       </li>
     </ul>
   </section>

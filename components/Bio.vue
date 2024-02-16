@@ -26,7 +26,10 @@
       and was very happy when I received the info that my application for it got
       accepted and I would be able to start studying in September 2021. I have
       learned many new things since then, and it even opened the doors to new
-      interests for me, like web or mobile development.
+      interests for me, like web or mobile development. In my 5th semester, I
+      also did an internship as a web developer, which allowed me to get a
+      glimpse into what working in the industry actually is like, and I learned
+      so much and made many valuable experiences during these months.
     </p>
     <p>
       However, I did not want to rely only on the things I would learn through
@@ -40,8 +43,8 @@
       to user input. This ability of just creating something out my own skills
       and knowledge is something that I have really come to love. I enjoy
       learning new things (after all, a skill I don't have is probably just one
-      I haven't learned yet) and I hope to soon find a place that is right for
-      me to bring in those skills.
+      I haven't learned yet), I want to keep educating myself and I hope to
+      eventually find a place that is right for me to bring in those skills.
     </p>
   </div>
 </template>
