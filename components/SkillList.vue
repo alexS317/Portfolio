@@ -9,7 +9,7 @@
           <h5>Programming</h5>
           <ul>
             <li>C#</li>
-            <li>JavaScript (Node.js, Vue, Nuxt) + HTML & CSS</li>
+            <li>JavaScript/TypeScript (Node.js, Vue, Nuxt, Angular)</li>
             <li>Kotlin</li>
             <li>PHP</li>
             <li>SQL (MySQL, SQLite)</li>

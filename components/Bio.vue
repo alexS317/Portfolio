@@ -29,7 +29,13 @@
       interests for me, like web or mobile development. In my 5th semester, I
       also did an internship as a web developer, which allowed me to get a
       glimpse into what working in the industry actually is like, and I learned
-      so much and made many valuable experiences during these months.
+      so much and made many valuable experiences during these months. In the 6th
+      semester I worked on my biggest project so far and created the game
+      "Swampify" together with a team of study colleagues. It was a great
+      experience and I am really proud of our achievements. After my last
+      semester, I returned to my internship company where I now work part-time
+      as a junior developer, while simultaneously continuing my studies to
+      broaden my skill set further and also earn my master's degree.
     </p>
     <p>
       However, I did not want to rely only on the things I would learn through

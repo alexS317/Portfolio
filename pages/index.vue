@@ -12,15 +12,16 @@ import Footer from "@/components/Footer.vue";
   <section class="banner">
     <div class="banner-inside">
       <h1>Alexandra Fontner</h1>
-      <h3>Aspiring Developer & Digital Artist</h3>
+      <h3>Developer & Digital Artist</h3>
       <p>
         Hello and welcome to my page, I am happy you found your way here! My
-        name is Alexandra, I am a young Austrian student currently on the way to
-        get my BSc in Creative Computing. I am interested in various kinds of
-        digital technologies, like software development (particularly for games,
-        but also web and mobile), 3D art and animation, or visual effects, and
-        would love to work in one of those fields in the future. On this page
-        here you can find some information about me and my work.
+        name is Alexandra and I LOVE combining creativity with technology. I
+        have a BSc in Creative Computing and am currently doing my master's
+        degree in Digital Media Production, while also working as a web
+        developer. I am interested in various kinds of digital technologies,
+        like software development (particularly for games, but also web and
+        mobile), 3D art and animation, and visual effects. On this page here you
+        can find some information about me and my work.
       </p>
       <p>Contact me via Email or LinkedIn:</p>
 
@@ -55,6 +56,18 @@ import Footer from "@/components/Footer.vue";
     <ul>
       <li>
         <div style="display: flex">
+          <div>Since Aug. 2024 -&nbsp;</div>
+          <div>
+            <div>Junior Developer at Digitalsunray Media GmbH</div>
+            <div>
+              Tasks: Front-End Development, Creative Development (Advertisement
+              banners)
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div style="display: flex">
           <div>Sept. 2023-Jan. 2024 -&nbsp;</div>
           <div>
             <div>Web Development Intern at Digitalsunray Media GmbH</div>
@@ -72,7 +85,11 @@ import Footer from "@/components/Footer.vue";
     <h3>Education</h3>
     <ul>
       <li>
-        2021-2024 - Creative Computing (BSc) at the University of Applied
+        2024-2026 - Digital Media Production (Dipl.-Ing.) at University of Applied
+        Sciences St. Pölten
+      </li>
+      <li>
+        2021-2024 - Creative Computing (BSc) at University of Applied
         Sciences St. Pölten
       </li>
       <li>
@@ -99,11 +116,8 @@ import Footer from "@/components/Footer.vue";
       <li>C++</li>
       <li>Various common 3D programs (e.g. Maya, ZBrush, Substance Painter)</li>
       <li>Different programs from the Adobe Suite</li>
-      <li>React</li>
       <li>Python</li>
-      <li>
-        ... and probably more :)
-      </li>
+      <li>... and probably more :)</li>
     </ul>
   </section>
 

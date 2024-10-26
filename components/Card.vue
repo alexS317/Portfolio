@@ -6,6 +6,9 @@ const props = defineProps({
   title: {
     type: String,
   },
+  subtitle: {
+    type: String,
+  },
   description: {
     type: String,
   },
@@ -25,6 +28,7 @@ const props = defineProps({
       />
       <div class="card-body">
         <h4 class="card-title">{{ props.title }}</h4>
+        <h6 class="card-subtitle">{{ props.subtitle }}</h6>
         <p class="card-text">
           {{ props.description }}
           <a

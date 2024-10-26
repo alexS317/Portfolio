@@ -14,6 +14,7 @@ uniItems.forEach((item) => {
   uniList.value.push({
     image: item.image,
     title: item.title,
+    subtitle: item.subtitle,
     description: item.description,
     link: item.link,
   });
@@ -80,6 +81,7 @@ personalItems.forEach((item) => {
         v-for="card in uniList"
         :image="card.image"
         :title="card.title"
+        :subtitle="card.subtitle"
         :description="card.description"
         :link="card.link"
       />
